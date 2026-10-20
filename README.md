@@ -1,8 +1,8 @@
 # Cloud Mesh · 粒子星云
 
-![Cloud Mesh 当前功能预览](docs/screenshot.png)
-
 **简体中文** · [English](README.en.md)
+
+![Cloud Mesh 当前功能预览](docs/screenshot.png)
 
 可实时调参的 WebGL 粒子场。通过星云、光环和银河三种预设，探索粒子、轨迹、涟漪与空间透视。
 

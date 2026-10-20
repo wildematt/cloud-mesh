@@ -1,8 +1,8 @@
 # Cloud Mesh · Particle Nebula
 
-![Cloud Mesh feature preview](docs/screenshot.png)
-
 [简体中文](README.md) · **English**
+
+![Cloud Mesh feature preview](docs/screenshot.png)
 
 An interactive WebGL particle field with live controls. Explore particles, trails, ripples, and perspective through Nebula, Halo, and Galaxy presets.
 
